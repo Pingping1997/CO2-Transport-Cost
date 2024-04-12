@@ -4,7 +4,7 @@ This repository contains a Python function that calculates the transport cost ba
 
 ## Usage
 
-To use this function, you need to have Python installed on your system. Clone the repository, navigate to the directory containing `transport_cost_calculator.py`, and run it with Python.
+To use this function, you need to have Python installed on your system. Clone the repository, navigate to the directory containing `CO2 transport.py`, and run it with Python.
 
 ## References
 
@@ -16,4 +16,4 @@ The cost calculation model is based on the research available in the following p
 Example:
 
 ```bash
-python transport_cost_calculator.py
+python CO2 transport.py
